@@ -1,0 +1,9 @@
+# input
+get miles
+
+# process
+take amount of miles and multiply by 1.60934
+product = kilometers * 1.60934
+
+# output 
+print or return product

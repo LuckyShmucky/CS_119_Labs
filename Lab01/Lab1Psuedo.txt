@@ -1,0 +1,10 @@
+# input
+get first number 
+get second number 
+
+# process
+take two arguments and multiple them 
+product = number1 * number2
+
+# output 
+print or return the resulting product of the two numbers

@@ -1,0 +1,18 @@
+# input 
+get weight in lbs
+get height in inches
+
+# process
+convert lbs to kilograms
+convert inches to meters
+calculate bmi by dividing the found kilograms by the found meters squared
+
+# output 
+display if the user's bmi's category
+
+# test data 
+180lbs
+height in inches 72
+
+280lbs
+height in inches 68

@@ -1,0 +1,25 @@
+# goal
+show member total of future value of investment
+
+# input
+
+get monthly amount 
+get annual interest rate
+get number of years for the investment
+
+# process
+
+convert total of years invested to months invested 
+(months = years * 12)
+
+convert annual interest rates to actual percentages 
+(example. adjusted_annual_rate = annual_interest_rate / 100  )
+
+convert adjusted annual rates to monthly rates
+(monthly_rate = adjusted_annual_rate / 12)
+
+while iteration < months:
+    futureValue = (futureValue + monthlyAmount) * (1 + monthly_rate)
+    i+=
+
+# output

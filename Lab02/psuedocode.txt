@@ -1,0 +1,28 @@
+#### Lab 2, exercise 1, Text Message Cost Calculator ####
+
+# input 
+get messages
+
+# process 
+take amount of messages and multiple them by .25 (the cost of each message)
+take the cost of all the messages and get nine percent of that (tax)
+add nine percent of the cost all the messages to get the total
+
+# output
+print or return the total of the bill for all the messages
+
+#### Lab 2, exercise 2, Gas Mileage Calculator ####
+
+# input 
+get number of miles driven, number of gallons put into gas tank, and cost in dollars per gallon of gas
+
+# process
+to find total fuel cost: number of gallons put into gas tank multiplied by cost per gallon of gas
+
+to find MPG divide the number of miles driven by the amount of gallons put into the gas tank
+
+to find price per mile: divide total fuel cost by number of miles driven
+
+
+# output
+print or return MPG, total fuel cost, and cost per mile

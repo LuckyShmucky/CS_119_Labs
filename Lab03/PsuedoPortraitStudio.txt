@@ -1,0 +1,19 @@
+# input
+get last_name
+get day_of_week
+get num_of_subjects
+
+# process
+use num_of_subjects to find base price.
+if day_of_week is saturday or sunday then 
+charge another twenty percent.
+
+# output 
+display all inputs and the total charge in the console 
+
+# test data
+day: Monday
+num of subjects = 3
+
+day: Saturday
+num of subjects = 5

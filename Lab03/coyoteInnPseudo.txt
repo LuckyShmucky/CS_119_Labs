@@ -1,0 +1,18 @@
+# input 
+get month that customer will be staying at Inn
+get total nights that customer will be staying
+
+# process 
+determine the cost per night based on month.
+calculate the total cost by multiplying the number of nights 
+by cost per night
+
+# output
+Display price for customer's stay at the Inn
+
+# test data
+total nights: 4
+month: 4
+
+total nights: 10
+month: 10
