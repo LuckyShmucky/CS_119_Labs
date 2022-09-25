@@ -1,0 +1,23 @@
+# input 
+
+get zipcode
+
+# variables
+iteration = 0
+cities 
+states
+found = false
+# process
+loop here:
+    if iteration < zipcode array length AND if found = False:
+        if userZipCode = zipcodeArray[i]:
+        city = cities[i]
+        state = states[i]
+        found = True
+        else: 
+        iteration = iteration + 1
+
+#output 
+
+Display city and state
+

@@ -1,0 +1,33 @@
+# input
+
+roll_types = {Junk, Pair, 3 of a kind, 4 of a kind, 5 of a kind}
+
+for iteration in range(4)
+    roll pDice[iteration] for player
+    roll cDice[iteration] for computer
+end for
+
+# process - determine what was rolled and who won 
+
+display what the player and the computer rolled
+
+#count the dice rolls in order to find any pairs, 3 of a kind and so on
+if any side of a die is rolled add it to an object as a prop and set it's value equal to one
+if it is rolled again add one to that same key's value
+
+# now find the highest roll combination
+
+loop through the counts
+    if the current count is greater than the previous highest roll, than this is the new maximum (cMax or pMax)
+
+
+
+# output display the type of roll, who won the round
+
+if pMax > cMax then
+    display player wins
+else if cMax > pMax then 
+    display computer wins
+esle 
+    display tie
+end
