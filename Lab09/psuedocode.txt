@@ -1,0 +1,16 @@
+# input 
+create a form that gets the number of miles driven, number of gallons 
+put into gas tank, and cost in dollars per gallon of gas
+
+# process
+to find total fuel cost: number of gallons put into gas tank multiplied 
+by cost per gallon of gas
+
+to find MPG divide the number of miles driven by the amount of gallons put
+into the gas tank
+
+to find price per mile: divide total fuel cost by number of miles driven
+
+
+# output
+print or return MPG, total fuel cost, and cost per mile
